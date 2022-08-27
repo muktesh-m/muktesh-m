@@ -1,6 +1,6 @@
 ### ✨ About Me:
 Hi!<br>I am Muktesh Mishra,
-<br>A second year undergrad majoring in ComputerScience at KIIT University, Bhubaneswar<br>
+<br>A second year undergrad majoring in Computer Science at KIIT University, Bhubaneswar<br>
 
 
 ### 🌐 Social Media Profile Links:
